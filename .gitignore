@@ -3,3 +3,6 @@
 *.out
 deepstream-pose-estimation-app
 *.log
+*.exe
+server
+client

@@ -35,5 +35,3 @@ To get started, please follow these steps.
 ```
 Multiple flags are available when executing the app.
 1. -server: The raw data will be sent to a server (ip and port are hard coded for now).
-2. -rtsp: The image comes from andrtsp stream instead of a camera
-If the app uses your webcam instead of your usb camera, simply disconnect your camera, reboot your computer and connect the camera once the computer is already turned on.
