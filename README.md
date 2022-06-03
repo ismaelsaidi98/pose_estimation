@@ -9,9 +9,9 @@ This project is based on a pose estimation model deployed on Deepstream. The pos
      <td>Output Video</td>
   </tr>
   <tr>
-    <td valign="top"><img src="images/INPUT.gif"></td>
+    <td valign="top"><img src="images/INPUT.gif" width="280"></td>
     <td valign="center"></td>
-    <td valign="top"><img src="images/out_Pose_Estimation.gif"></td>
+    <td valign="top"><img src="images/out_Pose_Estimation.gif" width="280"></td>
   </tr>
  </table>
 
