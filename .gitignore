@@ -2,3 +2,4 @@
 *.exe
 *.out
 deepstream-pose-estimation-app
+*.log
