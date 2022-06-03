@@ -20,4 +20,5 @@ To get started, please follow these steps.
   $ sudo make
   $ sudo ./deepstream-pose-estimation-app
 ```
-
+Multiple flags are available when executing the app.
+-server: The raw data will be sent to a server (ip and port are hard coded for now).
